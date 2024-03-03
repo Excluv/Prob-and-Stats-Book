@@ -1,0 +1,90 @@
+---------- Descriptive Statistics ---------- 
+
+---------- Inferential Statistics (Parametric Methods) ---------- 
+
+* Chapter 8: Populations, Samples and Probability
+
+* Chapter 9: Sampling Distribution
+
+* Chapter 10 & 11: Hypothesis Test (z Test)
+
+* Chapter 12: Confidence Intervals
+- On the constructions of CIs:
+	+ How to construct CIs for different parameters, such as the standard deviation, standard error, etc.?
+
+* Chapter 13: t Test for One Sample
+- On the t distribution:
+	+ What is the formula for the t curve?
+	+ What is p? How p is mathematically constructed?
+
+* Chapter 14: t Test for Two Independent Samples
+- On Cohen's d:
+	+ What is the meaning of this measurement?
+	+ How is it constructed mathematically?
+	+ How is it stable upon the changes in sample size?
+- On the assumptions of a t Test:
+	+ Why it is assumed that the samples are originated from normal distributions and have equal variances?
+	+ What happens if the assumptions are violated?
+
+* Chapter 15: t Test for Two Related Samples (Repeated Measures)
+
+
+* Chapter 16: F Test for ANOVA (One Factor)
+- What is the purpose of One-Factor F test for ANOVA?
+- On the F distribution:
+	+ What is the formula of the F curve?
+- On estimating effect size:
+	+ What is eta squared (squared curvilinear correlation)?
+	+ How is the mean square error equal to the pooled variance?
+- On multiple comparisons:
+	+ How the Turkey's HSD is constructed, based on what assumptions and mathematical models?
+	+ What is q? What is the meaning of q and how q is mathematically constructed?
+	+ What are the pros and cons of Turkey's HSD?
+	+ What are the other multiple comparisons? Their advantages and disadvantages over the Turkey's HSD?
+- On the assumptions of ANOVA:
+	+ How equal variance and normality affect the result of the one-factor F test?
+
+* Chapter 17: F Test for ANOVA (Repeated Measures)
+- What are the interpretations of the sum of squares and the mean squares?
+- On the variabilities:
+	+ How the variance due to individual differences is removed from F ratio?
+	+ Was the removal of individual differences identified by a mathetical calculation or based on some underlying meaning? 
+- On sum of squares (repeated measures):
+	+ What is the SS_error?
+- On the assumptions of repeated measures ANOVA:
+	+ What is the sphericity (the assumption of equal population correlation coefficients between all possible pairs)? -- Solved
+
+* Chapter 18: F Test for ANOVA (Two Factor)
+- What is the purpose of Two-Factor F test for ANOVA?
+- What is the difference between the distributions in the family of F?
+- Why the degrees of freedom, based on which a particular distribution of F is constructed, differ in Two-Factor F from One-Factor or Repeated Measures F
+- On multiple comparisons:
+	+ In which case the multiple comparisons should be conducted to estimate the main effect sizes?
+	+ How multiple comparisons can be applied to estimate the effect of interaction between independent variables?
+
+* Chapter 19: Chi-Square Test for Qualitative (Nominal) Data
+- How the family of Chi Square distributions is constructed?
+- What does the "binary logistics regression" have to do with the constructiong of CI for odds?
+- On the Cramer's Phi:
+	+ How is it constructed?
+	+ What is its interpretation?
+
+* Chapter 20: Test for Ranked (Ordinal) Data
+- On the Mann-Whitney U test:
+	+ How the family of U distributions is constructed?
+	+ What is the meaning of U (what does it represent)?
+	
+
+* General:
+- On what kind of general situation that any of the tests (within the current book) should be implemented? Why?
+- How these statistical procedures can be applied in financial applications?
+- How to calculate the estimate standard error in various tests?
+- On what basis a survey or an experiment is considered well designed?
+- How to conduct the Power analysis?
+
+
+
+
+
+
+
